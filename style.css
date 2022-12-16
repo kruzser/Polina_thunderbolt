@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(224, 217, 119);
+}
+.logo{
+   border: 5px solid black;
+}
+
+nav a {
+   border: 3px solid darkgreen; 
+   color: #800000;
+   margin: 50px;
+}
+p{
+    color: darkorchid;
+}
+footer{
+    border: 5px solid #66CDAA;
+    color: #000080;
+    background-color: #90EE90;
+}
+footer p{
+    color: #000080;
+}
+h1{
+    background-color: #D2691E;
+    text-align: center;
+}
+h2{
+    background-color: #008080;
+    text-align: center;
+}
+img{
+    border: 3px solid #8B0000;
+}
+
+a i{
+    color: #8B0000;
+    font-size:large;
+    border:3px solid #8B0000;
+}
+.a{
+    color: #8B0000;
+    border: 3px solid #8B0000;
+    font-size: large;
+}
